@@ -1,4 +1,4 @@
-# Cargo-Triple-Deluxe-Spore-
+# Cargo Triple Deluxe (Spore)
 
 ### This mod will not add new store items to existing games, so you may need to travel far to see them appear. New games should be fine.
 
