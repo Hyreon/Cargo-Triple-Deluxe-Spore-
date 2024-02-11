@@ -18,7 +18,7 @@ These are sold by Diplomats, Ecologists, Bards, Scientists and Traders at half y
 
 4 more cargo "optimizations" have been added. These each increase your capacity by 5, allowing for an additional +20.
 These share the same requirements as the other 4 upgrades, but are 7.5 times more expensive, and require the respective extension upgrade.
-- Large Cargo Optimization requires Basic Cargo Extension
+- Large Cargo Optimization requires Large Cargo Extension
 - Massive Cargo Optimization requires Massive Cargo Extension
 - etc.
 
