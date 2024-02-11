@@ -1,0 +1,4 @@
+<mod displayName="Cargo Triple Deluxe" unique="CargoTripleDeluxe" description="Almost triple the potential space in your cargo hold.&#xA;&#xA;" installerSystemVersion="1.0.1.0" hasCustomInstaller="false" dllsBuild="2.5.20">
+	<remove game="GalacticAdventures">*Cargo_Triple_Deluxe*</remove>
+	<remove game="Spore">*Cargo_Triple_Deluxe*</remove>
+</mod>
